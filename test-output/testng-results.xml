@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-01T15:46:39 CST" name="Default suite" finished-at="2020-11-01T15:46:55 CST" duration-ms="15945">
+    <groups>
+    </groups>
+    <test started-at="2020-11-01T15:46:39 CST" name="Default test" finished-at="2020-11-01T15:46:55 CST" duration-ms="15945">
+      <class name="com.companyname.project.module1.TC01_Get_SearchByCountryCode">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.companyname.project.module1.TC01_Get_SearchByCountryCode@6dbb137d]" started-at="2020-11-01T15:46:39 CST" name="setup" finished-at="2020-11-01T15:46:39 CST" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchByCountrycodeTest()[pri:0, instance:com.companyname.project.module1.TC01_Get_SearchByCountryCode@6dbb137d]" started-at="2020-11-01T15:46:39 CST" name="searchByCountrycodeTest" finished-at="2020-11-01T15:46:55 CST" duration-ms="15851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchByCountrycodeTest -->
+      </class> <!-- com.companyname.project.module1.TC01_Get_SearchByCountryCode -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
